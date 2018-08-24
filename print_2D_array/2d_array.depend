@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532714019 source:c:\users\bca\documents\codeblocks\2d_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

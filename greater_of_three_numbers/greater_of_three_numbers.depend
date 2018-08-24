@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527625354 source:c:\users\bca\documents\codeblocks\greater_of_three_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

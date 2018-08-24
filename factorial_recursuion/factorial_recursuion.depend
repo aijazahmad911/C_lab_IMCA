@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532121046 source:c:\users\bca\documents\codeblocks\factorial_recursuion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528315948 source:c:\users\bca\documents\codeblocks\aijaz\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528316848 source:c:\users\bca\documents\codeblocks\aijaz\fabonocci.c
+	<stdio.h>
+	<stdlib.h>
+

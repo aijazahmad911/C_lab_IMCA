@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527541439 source:c:\users\bca\documents\codeblocks\greater_of_two_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

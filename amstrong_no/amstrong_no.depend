@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533798163 source:c:\users\bca\documents\codeblocks\amstrong_no\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534914883 source:c:\users\aijaz ahmad\desktop\a\fibnocci\main.c
+	<stdio.h>
+	<stdlib.h>
+

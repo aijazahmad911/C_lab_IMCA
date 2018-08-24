@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527626682 source:c:\users\bca\documents\codeblocks\area_of_circle\main.c
+	<stdio.h>
+	<stdlib.h>
+
